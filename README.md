@@ -19,7 +19,8 @@ Requires Node `^22.19.0 || >=24` and DSH `>=0.2.0-rc.2 <0.3.0`.
 3. You get a compact, read-only report; use `/agents --json` for machine-readable output.
 
 ```text
-[agents] report — see --json for full data
+[agents] 0 subagent(s) · 0 result(s) merged
+  no subagent activity observed yet
 ```
 
 ## What it reads
